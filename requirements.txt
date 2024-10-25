@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+jcopml
+lightgbm
+matplotlib
+seaborn
+pandas
+streamlit
+nbformat
+plotly
+xgboost
