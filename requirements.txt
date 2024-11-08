@@ -1,13 +1,4 @@
-fastapi
-uvicorn
-scikit-learn
-numpy
-jcopml
-lightgbm
+pandas
 matplotlib
 seaborn
-pandas
-streamlit
-nbformat
-plotly
-xgboost
+scikit-learn
